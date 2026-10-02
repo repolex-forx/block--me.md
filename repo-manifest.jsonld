@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/block/me.md/commit/f7f7bb3ff6e4942bdf18b0c6353f5730949cd199",
       "git:hexsha": "f7f7bb3ff6e4942bdf18b0c6353f5730949cd199",
-      "repolex:parseStatus": "ast_complete",
+      "repolex:parseStatus": "enrich_complete",
       "git:tagName": "main"
     }
   ]
